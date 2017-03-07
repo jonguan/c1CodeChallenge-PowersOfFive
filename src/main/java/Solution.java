@@ -10,7 +10,7 @@ public class Solution {
     public Solution(){
     }
 
-    public int getMin(String s){
+    public int[] getMin(String[] s){
 
     }
 
